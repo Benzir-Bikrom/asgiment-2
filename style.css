@@ -333,6 +333,20 @@ color: #FFFFFF;
     height: 50px
 }
 
+
+
+
+
+
+
+/* - ----------------------footer--------------------  */
+
+
+
+
+
+
+
 .copy-right {
     padding: 35px 10px ;
     text-align: center;
@@ -351,6 +365,11 @@ color: #FFFFFF;
     line-height: 23px;
    
 }
+
+
+
+
+
 @media screen and (max-width: 576px) {
 
 
